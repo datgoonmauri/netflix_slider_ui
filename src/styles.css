@@ -1,15 +1,14 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+
 }
 .netslider_title_card {
-  display: flexbox;
-  justify-content: space-around;
-  flex-direction: row;
-  margin: 20px auto;
+  display: block;
+  max-width: 100%;
+
 }
 div.posters_one {
-  border: 20px;
   background: #03045e;
   background: -moz-linear-gradient(left, #03045e 0%, #023e8a 32%, #0077b6 100%);
   background: -webkit-linear-gradient(

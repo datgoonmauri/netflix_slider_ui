@@ -1,38 +1,90 @@
 export const data = [
-  {
-    id: 1,
-    image: "/images/slide1.jpg",
-    imageBg: "/images/slide1b.webp",
-    title: "1983"
-  },
-  {
-    id: 2,
-    image: "/images/slide2.jpg",
-    imageBg: "/images/slide2b.webp",
-    title: "Russian doll"
-  },
-  {
-    id: 3,
-    image: "/images/slide3.jpg",
-    imageBg: "/images/slide3b.webp",
-    title: "The rain"
-  },
-  {
-    id: 4,
-    image: "/images/slide4.jpg",
-    imageBg: "/images/slide4b.webp",
-    title: "Sex education"
-  },
-  {
-    id: 5,
-    image: "/images/slide5.jpg",
-    imageBg: "/images/slide5b.webp",
-    title: "Elite"
-  },
-  {
-    id: 6,
-    image: "/images/slide6.jpg",
-    imageBg: "/images/slide6b.webp",
-    title: "Black mirror"
-  }
+      {
+          "evidenceData": {
+              "type": "NONE",
+              "key": ""
+          },
+          "id": 80178943,
+          "image": "https://occ-0-2567-2568.1.nflxso.net/art/5894f/662898bd10de2745890025af62e0bee2a735894f.jpg",
+          "imageHighRes": "https://occ-0-2567-2568.1.nflxso.net/art/5894f/662898bd10de2745890025af62e0bee2a735894f.jpg",
+          "showAsARow": {},
+          "summary": {
+              "id": 80178943,
+              "type": "show"
+          },
+          "title": "The Boss Baby: Back in Business",
+          "userRating": {
+              "type": "thumb",
+              "userRating": 0
+          },
+          "watchURL": "/thebossbaby",
+          "rowNum": 2,
+          "rankNum": 1
+      },
+    {
+        "evidenceData": {
+            "type": "NONE",
+            "key": ""
+        },
+        "id": 80178943,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61ljrN7zmoL._AC_SL1024_.jpg",
+        "imageHighRes": "https://images-na.ssl-images-amazon.com/images/I/61ljrN7zmoL._AC_SL1024_.jpg",
+        "showAsARow": {},
+        "summary": {
+            "id": 80178943,
+            "type": "show"
+        },
+        "title": "The Boss Baby: Back in Business",
+        "userRating": {
+            "type": "thumb",
+            "userRating": 0
+        },
+        "watchURL": "/thebossbaby",
+        "rowNum": 2,
+        "rankNum": 1
+    },
+    {
+        "evidenceData": {
+            "type": "NONE",
+            "key": ""
+        },
+        "id": 80178943,
+        "image": "https://img.reelgood.com/content/show/9e5f5332-3856-4d82-9731-83bf95132554/poster-780.jpg",
+        "imageHighRes": "https://img.reelgood.com/content/show/9e5f5332-3856-4d82-9731-83bf95132554/poster-780.jpg",
+        "showAsARow": {},
+        "summary": {
+            "id": 80178943,
+            "type": "show"
+        },
+        "title": "The Boss Baby: Back in Business",
+        "userRating": {
+            "type": "thumb",
+            "userRating": 0
+        },
+        "watchURL": "/thebossbaby",
+        "rowNum": 2,
+        "rankNum": 1
+    },
+    {
+        "evidenceData": {
+            "type": "NONE",
+            "key": ""
+        },
+        "id": 80178943,
+        "image": "https://img.reelgood.com/content/show/f75762df-3e5b-4cd3-b621-32399a3dd20d/poster-342.jpg",
+        "imageHighRes": "https://img.reelgood.com/content/show/f75762df-3e5b-4cd3-b621-32399a3dd20d/poster-342.jpg",
+        "showAsARow": {},
+        "summary": {
+            "id": 80178943,
+            "type": "show"
+        },
+        "title": "The Boss Baby: Back in Business",
+        "userRating": {
+            "type": "thumb",
+            "userRating": 0
+        },
+        "watchURL": "/thebossbaby",
+        "rowNum": 2,
+        "rankNum": 1
+    }
 ];
